@@ -1,2 +1,2 @@
-#Lien vers le rendu
-[Lien vers le rendu](https://lahuts.github.io/php_maquette/)
+## Bonjour
+[Voici le site](https://lahuts.github.io/php_maquette/)
