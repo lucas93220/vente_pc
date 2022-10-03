@@ -1,2 +1,2 @@
 ## Bonjour
-[Voici le site](https://lahuts.github.io/php_maquette/)
+[Voici le site](https://lucas93220.github.io/vente_pc/)
