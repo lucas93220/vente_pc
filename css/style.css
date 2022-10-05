@@ -25,13 +25,6 @@ button{
     border: 0;
 }
 /*fin reset*/
-
-/*Google Font*/
-.material-symbols-outlined{
-    vertical-align: middle;
-    margin: 0.1rem;
-}
-
 *{
     font-family: 'Roboto';
 }
@@ -44,6 +37,12 @@ body {
 }
 header {
     background-color: #dfe6e9;
+}
+
+/*Google Font*/
+.material-symbols-outlined{
+    vertical-align: middle;
+    margin: 0.1rem;
 }
 header h1{
     text-align: center;
@@ -86,7 +85,7 @@ section {
     border-radius: 5px;
 }
 main section img {
-    border-radius: 5px;
+    margin: 1rem;
 }
 h2{
     font-weight: 500;
