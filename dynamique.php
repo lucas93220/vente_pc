@@ -8,23 +8,25 @@
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
     <link rel="manifest" href="./favicon/site.webmanifest">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
     <link rel="stylesheet" href="css/style.css">
     <title>Vente Ordinateur Gaming</title>
 </head>
 <body>
     <header>
         <img src="" alt="image">
-        <h1>Votre site de vente <strong>PC Gamer</strong></h1>
+        <h1>Votre site de vente <b>PC Gamer</b></h1>
         <ul>
             <li>
-                <p><span class="material-symbols-outlined">timer</span>RETRAIT 1H</p>
+                <img src="./favicon/favicon-32x32.png" alt="RETRAIT 1H">
+                <p>RETRAIT 1H</p>
             </li>
             <li>
-                <p><span class="material-symbols-outlined"> local_shipping </span>LIVRAISON DÈS DEMAIN</p>
+                <img src="./favicon/favicon-32x32.png" alt="Logo LIVRAISON DÈS DEMAIN">
+                <p>LIVRAISON DÈS DEMAIN</p>
             </li>
             <li>
-                <p><span class="material-symbols-outlined">contact_support</span>SAV</p>
+                <img src="./favicon/favicon-32x32.png" alt="Logo SAV">
+                <p>SAV</p>
             </li>
         </ul>
     </header>
@@ -36,23 +38,22 @@
                 <p>Chassis plus compact et léger mais présente une autonomie plus importante.</p>
                 <ul>
                     <li>
-                        <p><b>Processeur</b> : AMD Ryzen 7 4800H</p>
+                        <p><b>Processeur</b>.......</p>
                     </li>
                     <li>
-                        <p><b>Carte Graphique</b> : NVIDIA GeForce RTX 3050Ti</p>
+                        <p><b>Carte Graphique</b>.......</p>
                     </li>
                     <li>
-                        <p><b>Ecran</b> : "17,3" (43,9 cm) - Mémoire vive (RAM) : 16 Go"
-                        </p>
+                        <p><b>RAM</b>.......</p>
                     </li>
                     <li>
-                        <p><b>SSD</b> : SSD 512 Go (en PCi-Express)
-                        </p>
+                        <p><b>SSD</b>......</p>
                     </li>
                     <li>
-                        <p><b>Prix</b> : 1299.99€
+                        <p><b>Prix</b>........</p>
+                    </li>
                 </ul>
-                <button><span class="material-symbols-outlined"> shopping_cart_checkout </span>Ajouter au panier</button>
+                <button>Ajouter au panier</button>
             </div>
         </section>
     </main>
