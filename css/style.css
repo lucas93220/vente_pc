@@ -164,7 +164,8 @@ footer p{
     }
     main section img{
         margin: auto;
-    }
+        width: 35rem;
+        }
     h2{
         text-align: center;
     }
