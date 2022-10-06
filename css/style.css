@@ -157,6 +157,10 @@ footer p{
     width: 100%;
     height: 100%;
     }
+    main{
+        padding: 0rem;
+        background-color: #fff;
+    }
     main section img{
         margin: auto;
     }
@@ -188,7 +192,7 @@ footer p{
 
     footer{
         width: 100%;
-         
+        position: relative;
     }  
     footer p{
         
