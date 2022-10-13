@@ -16,9 +16,11 @@ a{
 
 .menu a{
     font-size: 1.6rem;
+    
 }
 .menu li {
     padding: 1rem;
+    
 }
 
 
@@ -69,8 +71,8 @@ header h1 strong {
 header ul {
     display: flex;
     justify-content: center;
-    gap: 10rem;
     font-size: 1.6rem;
+    gap: 10rem;
     background-color: #fff;
 }
 
@@ -81,6 +83,7 @@ main {
     display: flex;
     justify-content: center;
     padding: 10rem;
+
     
 }
 
@@ -150,6 +153,8 @@ footer p{
     font-size: 1.6rem;
     font-weight:500 ;
 }
+
+
 /* mobile */
 @media screen and (max-width: 80rem)
 {
@@ -160,6 +165,7 @@ footer p{
     }
     main{
         padding: 0rem;
+        height: 80rem;
         background-color: #fff;
     }
     main section img{
@@ -203,6 +209,20 @@ footer p{
        margin: auto;
     }
 }
+@media screen and (min-width:820px) and (max-width: 1180px) {
+    main{
+        height: 95rem;
+    }
+   
+}
+
+@media screen and (min-width:912px) and (max-width: 1368px) {
+    main{
+        height: 114rem;
+    }
+   
+}
+
 
 
 
