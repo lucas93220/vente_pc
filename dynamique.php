@@ -20,6 +20,6 @@
     
     include_once './pages/footer.inc.php';
     
-?>
+?> 
 </body>
 </html>
