@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
+    <?php 
+
+    include_once './pages/var.inc.php';
+    
+    ?>
 <?php
     
     include_once './pages/head.inc.php';
