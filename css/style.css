@@ -28,7 +28,7 @@ a{
     background-color: #e4e4e4;
     border-radius: 5px;
     transition: all 400ms ease-in-out;
-    transform: translateY(.20rem);
+    transform: translateY(-.20rem);
 }
 
 nav ul li:hover a{
